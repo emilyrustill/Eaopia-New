@@ -5,8 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class SceneManagerScript : MonoBehaviour
 {
-    public void LoadScene(string sceneName)
+   public void btn_change_scene(string scene_name)
     {
-        SceneManager.LoadScene(sceneName);
+        //SceneManager.LoadScene(scene_name);
+        Debug.Log("Open next scene");
+    }
+
+
+    public void CustomOnPressed()
+    {
+        Debug.LogError("I got pressed!");
     }
 }
