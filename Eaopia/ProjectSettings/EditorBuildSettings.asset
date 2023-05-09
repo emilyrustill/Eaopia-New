@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/InsideOfHouse.unity
+    path: Assets/Scenes/Scenes/InsideOfHouse.unity
     guid: 8f72e0ae304289f4f910234118bf5c46
   - enabled: 1
-    path: Assets/Scenes/EAOPIA.unity
+    path: Assets/Scenes/Scenes/EAOPIA.unity
     guid: d8e3adfd487cc684bbd26b6c3c2d824f
   m_configObjects: {}
